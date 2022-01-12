@@ -1,0 +1,19 @@
+* {
+    color: blanchedalmond;
+}
+
+button {
+    border: 2px solid darkred;
+    color: darkred;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    color: blanchedalmond;
+    background-color: darkred;   
+}
+
+body {
+    background-color: black;
+}
